@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Devops for Talend Plateformeabout devops"
-permalink: /DevOps/
+permalink: /devops/
 author_profile: true
 header:
   image: "/images/kadence_logo.png"
