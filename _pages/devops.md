@@ -6,4 +6,4 @@ author_profile: true
 header:
   image: "/images/kadence_logo.png"
 ---
-{% include custom %}
+{% include custom.html %}
