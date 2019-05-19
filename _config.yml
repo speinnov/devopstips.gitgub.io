@@ -103,6 +103,8 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+# {% include base_path %}
+# {% include group-by-array collection=site.posts fields="tags" %}
 
 # Site Author
 author:
