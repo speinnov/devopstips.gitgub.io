@@ -113,19 +113,19 @@ author:
   email            : "khenouche@gmail.com"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "khenouche@gmail.com"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "https://spectrun-innovation.com"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "speinnov"
+      icon: "https://twitter.com/SPEINNOV"
       # url: "https://twitter.com/"
     - label: "Facebook"
-      icon: "speinnov"
+      icon: "https://mobile.facebook.com/Spectrum-Data-modeler-1646874212208363/"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "speinnov"
+      icon: "https://speinnov.github.io/"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "speinnov"
@@ -135,13 +135,13 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "https://twitter.com/SPEINNOV"
       # url:
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "https://mobile.facebook.com/Spectrum-Data-modeler-1646874212208363/"
       # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "https://speinnov.github.io/"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
