@@ -106,29 +106,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Khenouche"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Talend Expert."
+  location         : "Paris"
+  email            : "khenouche@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "https://spectrun-innovation.com"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "speinnov"
       # url: "https://twitter.com/"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "speinnov"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "speinnov"
       # url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "speinnov"
       # url: "https://instagram.com/"
 
 # Site Footer
