@@ -7,8 +7,8 @@ header:
   image: "/images/kadence_logo.png"
 ---
 
-{% include base_path %}
-{% include group-by-array collection=site.posts fields="tags" %}
+# {% include base_path %}
+# {% include group-by-array collection=site.posts fields="tags" %}
 
   {% for tag in group_names %}
     {% assign posts = group_items[forloop.index0] %}
