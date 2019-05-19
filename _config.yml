@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Khenouche"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/faviconSpectrum.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Talend Expert."
   location         : "Paris"
   email            : "khenouche@gmail.com"
