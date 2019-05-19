@@ -112,8 +112,8 @@ author:
   location         : "Paris"
   email            :
   links            : "khenouche"
-  github           : "speinnov"
-  linkedin         : "speinnov" # linl to
+#  github           : "speinnov"
+#  linkedin         : "speinnov" # linl to 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
@@ -300,7 +300,7 @@ defaults:
 
 - scope:
     path  : ""
-    type: pages
+    type: Pages
   values:
     layout: single
     author_profile: true
