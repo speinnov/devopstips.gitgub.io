@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DevOps Tips"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "SPEINNOV"
-description              : "Help by tips on how to implement CICD process with talend"
+name                     : "Your Name"
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,14 +106,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdel"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Tools for DevOps"
-  location         : "Paris"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
-  links            : "khenouche"
-#  github           : "speinnov"
-#  linkedin         : "speinnov" # linl to 
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
@@ -295,12 +293,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# _pages
-
-- scope:
-    path  : ""
-    type: Pages
-  values:
-    layout: single
-    author_profile: true
