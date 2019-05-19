@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Devops"
+  - title: "DevOps"
     url: /devops/
 
 #  - title: "Quick-Start Guide"
