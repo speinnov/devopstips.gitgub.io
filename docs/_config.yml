@@ -10,8 +10,8 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "fr-FR"
-title                    : "Tools for DevOps with Talend"
+locale                   : "en-US"
+title                    : "Minimal Mistakes"
 title_separator          : "-"
 name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
@@ -93,7 +93,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+    - "https://www.facebook.com/michaelrose"
 
 # Analytics
 analytics:
@@ -336,11 +336,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
-# _pages
-- scope:
-    path  : ""
-    type: Pages
-  values:
-    layout: single
-    author_profile: true
